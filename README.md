@@ -1,1 +1,1 @@
-# Odin-Project-recipes
+First basic Website project for odin. Using basic html with a little css for fun. Only requirement is html. Reason for using css is i learned some on the side, just for some extra practice before i officially learn it.
