@@ -1,0 +1,21 @@
+:root{
+    --PrimaryText: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+*{
+    background-color: rgb(40, 40, 40);
+    color: var(--PrimaryText)
+}
+.Main{
+    color: white;
+}
+.Page{
+    color: orange;
+}
+.Header{
+    color: hotpink;
+}
+.Header4{
+    color: green;
+}
