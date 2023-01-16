@@ -43,6 +43,7 @@ font-size: larger
     border-radius: 5px;
     text-decoration: none;
     padding: 0px 5px;
+    fill: purple;
 }
 
 .button {
